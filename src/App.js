@@ -1,4 +1,3 @@
-import './App.css';
 import BookList from './views/BookList';
 
 function App() {
